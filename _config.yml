@@ -29,7 +29,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://g33kroid.github.io"
 
 github:
-  username: geekroid # change to your github username
+  username: g33kroid # change to your github username
 
 twitter:
   username: g33kroid # change to your twitter username
@@ -38,7 +38,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: G33KR0id
-  email: example@domain.com # change to your email address
+  email:  # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/g33kroid # change to your twitter homepage
@@ -70,7 +70,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: dark
+theme_mode: [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
